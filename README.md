@@ -1,1 +1,1 @@
-This is a pong game made using python. To run this game you must have python installed and you also must have the module pygame installed using 'pip install pygame' or 'pip3 install pygame' in the terminal. This is a single player game where you play against an ai.
+This is a pong game made using python. Type "pip install -r requirements.txt" to install all required packages. This game is single player and you will play against an ai.
